@@ -7,3 +7,7 @@ This program is developed in both FBD and LLD based on the following rules:
 
 3- And hits them by another XIC instruction.
 
+![Building light control(FBD)](https://user-images.githubusercontent.com/41565191/56583388-b6806380-65ee-11e9-8f4d-12ab06ad354c.jpg)
+
+
+![Building light control(LLD)](https://user-images.githubusercontent.com/41565191/56583389-b6806380-65ee-11e9-9ac5-21b83edda53b.jpg)
